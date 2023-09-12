@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @marylopez1029
+- 👋 Hi, I'm Mary
 - 👀 I’m interested in reading, hiking, skiing, and dancing.
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on machine learning projects.
-- 📫 How to reach me marylopez1029@gmail.com
+- 🌱 I like fiddling around with data science and discovering insights.
+- 💞️ I’m looking to collaborate on machine learning projects and anything AI. 
+- 📫 How to reach me: marylopez1029@gmail.com
 
 <!---
 marylopez1029/marylopez1029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
